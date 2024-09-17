@@ -1,8 +1,6 @@
 # Supporting Code and Data to replicate RRmorph case studies
 
-output: html_document:
-Keep_md: true
-date: "2024-06-14"
+# Reference paper: Melchionna, M., Castiglione, S., Girardi, G., Serio, C., Esposito, A., Mondanaro, A., Profico, A., Sansalone, G., & Raia, P.(2024).RRmorph—a new R package to map phenotypic evolutionary rates and patterns on 3D meshes. Communications Biology 7: 1009.doi:10.1038/s42003-024-06710-8
 
 **Repository content:**
 
